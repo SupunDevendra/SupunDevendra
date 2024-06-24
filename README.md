@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supun Devendra</h1>
-<h3 align="center">I am from sri lanka 🇱🇰.</h3>
+<h3 align="center"> sri lanka 🇱🇰.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supundevendra&label=Profile%20views&color=0e75b6&style=flat" alt="supundevendra" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **python,java...etc**
 
-- 💬 Ask me about **me**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **supundevendra1207@gmail.com**
 
